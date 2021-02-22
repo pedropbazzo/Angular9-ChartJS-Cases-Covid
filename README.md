@@ -1,4 +1,5 @@
-[Chart JS](https://raw.githubusercontent.com/pedropbazzo/Angular9-ChartJS-Cases-Covid/master/src/assets/chart.gif)
+
+<h1><img src="https://raw.githubusercontent.com/pedropbazzo/Angular9-ChartJS-Cases-Covid/master/src/assets/chart.gif" /></h1>
 
 Build a CRUD Angular App Quickly (Coronavirus Cases App)].
 
