@@ -1,3 +1,5 @@
+[](https://raw.githubusercontent.com/pedropbazzo/Angular9-ChartJS-Cases-Covid/master/src/assets/chart.gif)
+
 Build a CRUD Angular App Quickly (Coronavirus Cases App)].
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
